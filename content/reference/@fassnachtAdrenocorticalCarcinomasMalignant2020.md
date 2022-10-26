@@ -7,5 +7,5 @@ year: 2020
 [btni:: incidence of paraganglioma and pheochromocytoma]
 [btn:: 2-8 million/year]
 
-[btni:: incidence of pants and pheochromocytoma]
+[btni:: incidence of pants]
 [btn:: 8 million/year]
