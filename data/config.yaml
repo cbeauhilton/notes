@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Beau Hilton
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -8,16 +8,15 @@ enableCodeBlockCopy: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/cbeauhilton/quartz/tree/hugo/content
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  beau's notes.
 page_title:
-  "🪴 Quartz 3.2"
+  "🪴 notes"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Home
+    link: https://beauhilton.com
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/cbeauhilton

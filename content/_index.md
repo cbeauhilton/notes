@@ -1,26 +1,15 @@
 ---
-title: 🪴 Quartz 3.2
+title: notes
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+I used to call this a [memex](https://en.wikipedia.org/wiki/Memex), 
+then toyed with calling it a [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten).
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Finally landed on just "notes."
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Pith [ftw](https://winstonchurchill.org/publications/finest-hour/finest-hour-145/editors-essay-churchill-on-jargon/). 
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+<br></br>
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+Many thanks to [jzhao](https://jzhao.xyz/) for the tooling.
