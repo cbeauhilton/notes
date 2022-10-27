@@ -10,14 +10,14 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: false
+enableGitHubEdit: true
 GitHubLink: https://github.com/cbeauhilton/quartz/tree/hugo/content
 description:
   beau's notes.
 page_title:
   "🪴 notes"
 links:
-  - link_name: Home
+  - link_name: beauhilton.com
     link: https://beauhilton.com
   - link_name: Github
     link: https://github.com/cbeauhilton
