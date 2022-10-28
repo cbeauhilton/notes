@@ -1,19 +1,21 @@
-# Quartz
+# notes
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## folder structure
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+[h/t Artem Kirsanov](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+- notes/
+- references/ (with Zotero, h/t again to [Artem Kirsanov](https://www.youtube.com/watch?v=D9ivU_IKO6M))
+- files/
+- templates/
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## highlight strategy
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+[h/t Bri Watson via Bryan Jenks](https://publish.obsidian.md/bryan-jenks/Z/Tag+Taxonomy)
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- 🔴️ Red --> Disagree With Author
+- 🟠️ Orange --> Important Point By Author
+- 🟡️ Yellow --> Interesting Point
+- 🟢️ Green --> Important To Me
+- 🔵️ Blue --> Notes After Initial Iteration
+- 🟣️ Magenta --> Literary Note To Lookup Later
