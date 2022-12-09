@@ -1,0 +1,7 @@
+-   🔴️ `Red` --> **Disagree With Author**
+-   🟠️ `Orange` --> **Important Point By Author**
+-   🟡️ `Yellow` --> **Interesting Point**
+-   🟢️ `Green` --> **Important To Me**
+-   🔵️ `Blue` --> **Notes After Initial Iteration**
+-   🟣️ `Magenta` --> **literary note to look up later**
+    -   Incomplete will be tagged with 🧠️/📥️/📜️/🟪️ indicating that there are citations left to follow up on
