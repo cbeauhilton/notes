@@ -56,7 +56,7 @@ year: 2021
 		- CCRT afterward (3-8wks), 70-74Gy + carbo AUC 1.5 x7wks
 		- Resection 6-12wk s/p CCRT if resectable disease (e.g. not CR)
 
-	![[TAX324_TAX323_20221209151920.png]]
+	![[files/TAX324_TAX323_20221209151920.png]]
 
 		- because of increased toxicities with TPF, modified regimens have been tried:
 			- [[modified TPF]]: Fayette J, Fontaine-Delaruelle C, Ambrun A, et  al. Neoadjuvant modified TPF (docetaxel, cisplatin, fluorouracil) for patients unfit to standard TPF in locally advanced head and neck squamous cell carcinoma: a study of 48 patients. Oncotarget. 2016;7:37297–304.

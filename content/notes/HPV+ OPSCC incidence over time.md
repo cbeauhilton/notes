@@ -4,7 +4,7 @@ from 40.5% before 2000,
 to 64.3% between 2000 and 2004, 
 and 72.2% between 2005 and 2009"
 
-[[@vermorkenWhereWhenUse2021]]
+[[reference/@vermorkenWhereWhenUse2021]]
 
 questions, probably won't be answered for decades:
 - what will the dropoff in sexual activity over the past decade or so do to these numbers? (don't have a reference for this, heard a few times that teens are having less sex, also not sure if this translates into young adults)
