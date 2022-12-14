@@ -68,6 +68,7 @@ tags:
 
 - [[ICT LA-HNSCC indications]]
 	- larynx preservation
+			- 
 	- treatment intensification (?)
 	- borderline resectable or unresectable *oral cavity* cancer
 	- selection tool for RT dose de-escalation in HPV+ OPSCC
