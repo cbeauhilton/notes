@@ -1,5 +1,5 @@
 ---
-title: "Where and when to Use Induction Chemotherapy in Head and Neck Squamous Cell Cancer"
+title: "Where and When to Use Induction Chemotherapy in Head and Neck Squamous Cell Cancer"
 authors: Jan B. Vermorken
 year: 2021
 tags:
@@ -57,14 +57,14 @@ tags:
 		- 5-FU 1000mg/m2/day x4d (4000mg)
 		- prev untx, unresectable/low likelihood of surgical cure, and pts who were candidates for organ preservation
 		- CCRT afterward (3-8wks), 70-74Gy + carbo AUC 1.5 x7wks
-		- Resection 6-12wk s/p CCRT if resectable disease (e.g. not CR)
-
-	![[files/TAX324_TAX323_20221209151920.png]]
-
+		- resection 6-12wk s/p CCRT if resectable disease (e.g. not CR)
 		- because of increased toxicities with TPF, modified regimens have been tried:
 			- [[modified TPF]]: Fayette J, Fontaine-Delaruelle C, Ambrun A, et  al. Neoadjuvant modified TPF (docetaxel, cisplatin, fluorouracil) for patients unfit to standard TPF in locally advanced head and neck squamous cell carcinoma: a study of 48 patients. Oncotarget. 2016;7:37297–304.
 			- [[weekly carbo+taxol]]: Herman LC, Chen L, Garnett A, et  al. Comparison of carboplatin-paclitaxel to docetaxelcisplatin-5-fluorouracil induction chemotherapy followed by concurrent chemoradiation for locally advanced head and neck cancer. Oral Oncol. 2014;50:52–8.
 			- [[TPEx]] (cisplatin, docetaxel, cetuximab): Zenda S, Ota Y, Kiyota N, et al. A multicenter phase II trial of docetaxel, cisplatin, and cetuximab (TPEx) followed by cetuximab and concurrent radiotherapy for patients with local advanced squamous cell carcinoma of the head and neck (CSPOR HN01: ECRIPS study). Front. Oncologia. 2019;9:6.
+
+
+	![[files/TAX324_TAX323_20221209151920.png]]
 
 - [[ICT LA-HNSCC indications]]
 	- larynx preservation
