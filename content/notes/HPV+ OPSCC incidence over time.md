@@ -1,3 +1,12 @@
+---
+title: "HPV+ OPSCC incidence over time"
+tags:
+- diseases
+- head-and-neck
+- hpv
+- epidemiology
+---
+
 "...overall HPV prevalence in OPSCC is increasing significantly over time: 
 
 from 40.5% before 2000, 
