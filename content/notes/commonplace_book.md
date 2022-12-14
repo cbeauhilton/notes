@@ -1,7 +1,7 @@
 ---
 title: "commonplace book"
 tags:
-- pkm
+- PKM
 ---
 
 

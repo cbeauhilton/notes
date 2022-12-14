@@ -1,7 +1,7 @@
 ---
 title: "pdf highlight colors"
 tags:
-- pkm
+- PKM
 ---
 
 -   🔴️ `red` --> disagree with author

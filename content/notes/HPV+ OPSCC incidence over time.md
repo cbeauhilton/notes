@@ -3,7 +3,7 @@ title: "HPV+ OPSCC incidence over time"
 tags:
 - diseases
 - head-and-neck
-- hpv
+- HPV
 - epidemiology
 ---
 

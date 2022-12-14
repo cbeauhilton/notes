@@ -3,7 +3,7 @@ title: "The Design of Everyday Things by Don Norman"
 tags:
 - book
 - design
-- user experience
+- UX
 - Don Norman
 ---
 
