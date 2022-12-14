@@ -2,6 +2,9 @@
 title: "Where and when to Use Induction Chemotherapy in Head and Neck Squamous Cell Cancer"
 authors: Jan B. Vermorken
 year: 2021
+tags:
+- head-and-neck
+- induction chemotherapy
 ---
 
 - [[HPV+ OPSCC incidence over time]]
