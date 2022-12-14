@@ -1,7 +1,13 @@
-# mistakes
+---
+title: "mistakes and systems"
+tags:
+- systems
+---
+
+# mistakes and systems
 
 Looking for systems that allowed for mistakes is a great idea,
-and Don Norman and Atul Gawande have done beautiful work
+and [[Don Norman]] and [[Atul Gawande]] have done beautiful work
 defining this generally (Norman) and for medicine (Gawande).
 Blame and fix systems, and allow people to thrive.
 

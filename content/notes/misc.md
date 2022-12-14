@@ -1,4 +1,10 @@
-# miscellaneous quotes
+---
+title: "miscellaneous quotes"
+tags:
+- quotes
+---
+
+
 
 > Emitte Spiritum tuum et creabuntur;
 

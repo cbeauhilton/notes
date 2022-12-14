@@ -1,5 +1,13 @@
-# The Design of Everyday Things by Don Norman
-:book:
+---
+title: "The Design of Everyday Things by Don Norman"
+tags:
+- book
+- design
+- user experience
+- Don Norman
+---
+
+# The [[Design of Everyday Things]] by [[Don Norman]]
 
 A conceptual model is an explanation,
 usually highly simplified, of how something works.
@@ -12,4 +20,5 @@ People don't want to buy a quarter-inch drill. They want a quarter-inch hole!
 
 * pp. 33-34
 * Theodore Levitt
+
 Sun 17 Nov 2019 10:23:05 AM CST

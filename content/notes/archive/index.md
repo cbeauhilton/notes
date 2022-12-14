@@ -77,7 +77,7 @@ I use it.
 
 # personal health
 - [sleep](health/sleep.md)
-- [mistakes](health/mistakes.md)
+- [mistakes](mistakes.md)
 
 ---
 
@@ -138,28 +138,28 @@ I use it.
 
 # florilegium
 
-- [commonplace book](florilegium/commonplace_book.md)
+- [commonplace book](commonplace_book.md)
 
 ## books
 
-- [deep work by cal newport](florilegium/deep_work_by_cal_newport.md)
-- [finite infinite games james p carse](florilegium/finite_infinite_games_james_p_carse.md)
-- [essentialism greg mckeown](florilegium/essentialism_greg_mckeown.md)
-- [design of everyday things don norman](florilegium/design_of_everyday_things_don_norman.md)
+- [deep work by cal newport](deep_work_by_cal_newport.md)
+- [finite infinite games james p carse](finite_infinite_games_james_p_carse.md)
+- [essentialism greg mckeown](essentialism_greg_mckeown.md)
+- [design of everyday things don norman](design_of_everyday_things_don_norman.md)
 
 ## lyrics
 
-- [lyrics](florilegium/lyrics.md)
+- [tomorrow_never_happens](tomorrow_never_happens.md)
 
 ## misc
 
-- [misc](florilegium/misc.md)
+- [misc](misc.md)
 
 ---
 
 # theo
 
-- [desert fathers](theo/desert_fathers.md)
+- [desert fathers](desert_fathers.md)
 
 ---
 

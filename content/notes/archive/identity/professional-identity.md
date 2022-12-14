@@ -19,7 +19,7 @@ Can't ever fully master medicine,
 as it's too large (even if scientific knowledge remained static),
 and scientific knowledge is exponentially expanding.
 The joyfulness of infinite play lies in learning to start something we cannot finish.
-See [Carse's _Finite and Infinite Games_](../florilegium/finite_infinite_games_james_p_carse.md).
+See [Carse's _Finite and Infinite Games_](finite_infinite_games_james_p_carse.md).
 
 ### purpose
 Work-life integration, rather than balance.

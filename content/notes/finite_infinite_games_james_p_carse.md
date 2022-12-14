@@ -1,5 +1,12 @@
 
-# Finite and Infinite Games by James P. Carse
+---
+title: "Finite and Infinite Games by James P. Carse"
+tags:
+- book
+- philosophy
+- James Carse
+---
+
 
 It is an invariable principle of all play,
 finite and infinite,
@@ -58,4 +65,5 @@ _Note_: Which Sufi(s) say this?
 Also, I frequently entertain the idea of not hanging my degree certificates on the wall of my office.
 
 ---
+
 Tue 30 Jun 2020 10:50:01 AM CDT
