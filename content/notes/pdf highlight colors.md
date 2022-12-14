@@ -1,12 +1,12 @@
 ---
-title: "highlight colors for pdfs"
+title: "pdf highlight colors"
 tags:
-- active reading
+- pkm
 ---
 
--   🔴️ `Red` --> **Disagree With Author**
--   🟠️ `Orange` --> **Important Point By Author**
--   🟡️ `Yellow` --> **Interesting Point**
--   🟢️ `Green` --> **Important To Me**
--   🔵️ `Blue` --> **Notes After Initial Iteration**
--   🟣️ `Magenta` --> **literary note to look up later**
+-   🔴️ `red` --> disagree with author
+-   🟠️ `orange` --> important point by author
+-   🟡️ `yellow` --> interesting point
+-   🟢️ `green` --> important to me
+-   🔵️ `blue` --> notes after initial iteration
+-   🟣️ `magenta` --> literary note to look up later

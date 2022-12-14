@@ -1,5 +1,5 @@
 ---
-title: "Empiric Antibiotics"
+title: "empiric antibiotics"
 tags:
 - inbox
 ---
