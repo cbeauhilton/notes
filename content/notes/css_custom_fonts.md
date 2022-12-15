@@ -1,4 +1,15 @@
+---
+title: "using custom fonts in a web page"
+tags:
+- web
+- CSS
+---
+
 # fonts
+
+2022 update: now I just use system fonts. Cf. <https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/>
+
+---
 
 TL;DR:
 
@@ -10,7 +21,7 @@ TL;DR:
 + add the line `font-display: swap;` to `@font-face` to avoid invisible text during loading
 + add caching to make subsequent loads faster - `relayd(8)`
 
-***
+---
 
 In making my website more minimal, but still my own, font choice seemed a good place to start. I love IBM Plex, and use it everywhere. I wanted to use it on my website, but was a little confused as to how to make it happen without needing a dynamic link to some other website to source the font (e.g. IBM Plex has been added to Google Fonts, so an easy way to get it on my website is to link to their resource). The problem with this is that it needs to query their website every time a new visitor comes to mine, and that is less efficient and makes me dependent on Google. (Btw, the most suckless thing to do would be to just use the user's system monospaced font with `font-family:monospace` -- that's exactly what suckless.org does -- but this is a *personal* blog, dammit, and I'm going to strike a balance between minimalism and personality -- call it essentialism, maybe)
 
@@ -49,4 +60,5 @@ Some resources on `relayd(8)` and caching:
 - <https://parksdigital.com/httpd-and-relayd-on-openbsd.html>
 - <https://ifconfig.se/simple-web-stack.html>
 - <https://web.dev/uses-long-cache-ttl>
+
 Sun 28 Jun 2020 06:36:52 AM CDT

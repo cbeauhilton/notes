@@ -1,4 +1,16 @@
-# icon
+---
+title: "favicons"
+tags:
+- web
+---
+
+# favicon
+
+---
+
+2022 update: I now use SVG emoji. View the page source to see.
+
+---
 
 I need an icon, favicon, etc. I have one from my old website, but it might be nice to migrate to a newer, simpler one.
 I prefer SVG for everything if possible.
