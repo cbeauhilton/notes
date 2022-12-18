@@ -109,4 +109,5 @@ Sonja Lyubomirsky, psychologist
 we need a truth that we can serve.
 
 Jacques Maritain, *Degrees of Knowledge*, 1932
+
 ---
