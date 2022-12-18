@@ -108,5 +108,5 @@ Sonja Lyubomirsky, psychologist
 >We do not need a truth to serve us, 
 we need a truth that we can serve.
 
-Jacques Maritain
+Jacques Maritain, *Degrees of Knowledge*, 1932
 ---
