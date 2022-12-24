@@ -139,3 +139,13 @@ we need a truth that we can serve.
 Jacques Maritain, *Degrees of Knowledge*, 1932
 
 ---
+
+>The computer works essentially like a 
+high-speed clerk of moronic intelligence 
+slavishly following man made instruction.
+
+BBC television, 1965-10-04
+
+<https://twitter.com/i/status/1058021872556740608>
+
+---
