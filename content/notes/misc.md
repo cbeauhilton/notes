@@ -105,6 +105,16 @@ Sonja Lyubomirsky, psychologist
 
 ---
 
+>As for the budget, a paper by Bjorken later put it this way: 
+>"The location of the experiment in fiscal space was near the imaginary axis."
+>Funding, in other words, was almost nonexistent.
+
+<https://artsci.case.edu/magazine/2020/an-unpredictable-trajectory/>
+
+J.D. Bjorken, theoretical physicist at Stanford
+
+---
+
 >We do not need a truth to serve us, 
 we need a truth that we can serve.
 
