@@ -95,6 +95,15 @@ Roman Dale, personal communication, 4 June 2018
 
 ---
 
+>Pare down to the essence, but don't remove the poetry.  
+Keep things clean and unencumbered, but don't sterilize.
+
+Leonard Koren
+
+<https://www.nytimes.com/2005/10/09/style/tmagazine/the-slow-lane.html>
+
+---
+
 >If you observe a really happy man you will find him building a boat, writing a symphony, educating his son, or looking for dinosaur eggs in the Gobi Desert.
 
 W. Beran Wolfe, Australian psychiatrist
@@ -105,9 +114,9 @@ Sonja Lyubomirsky, psychologist
 
 ---
 
->As for the budget, a paper by Bjorken later put it this way: 
->"The location of the experiment in fiscal space was near the imaginary axis."
->Funding, in other words, was almost nonexistent.
+>As for the budget, a paper by Bjorken later put it this way:
+"The location of the experiment in fiscal space was near the imaginary axis."
+Funding, in other words, was almost nonexistent.
 
 <https://artsci.case.edu/magazine/2020/an-unpredictable-trajectory/>
 
