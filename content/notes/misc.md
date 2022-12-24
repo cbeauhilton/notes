@@ -89,7 +89,8 @@ Joseph Smith, Letter to Isaac Galland, Mar. 22, 1839, Liberty Jail
 
 ---
 
->sometimes it is necessary to shake the kaleidoscope: same elements - different pattern - new direction
+>sometimes it is necessary to shake the kaleidoscope:  
+same elements - different pattern - new direction
 
 Roman Dale, personal communication, 4 June 2018
 
@@ -108,9 +109,17 @@ Leonard Koren
 
 W. Beran Wolfe, Australian psychiatrist
 
+---
+
 >Find a happy person, and you will find a project.
 
 Sonja Lyubomirsky, psychologist
+
+---
+
+>I believe no man was ever scolded out of his sins.
+
+William Cowper
 
 ---
 
