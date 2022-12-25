@@ -216,7 +216,6 @@ Rabbi Abraham Joshua Heschel, *God in Search of Man*, 1955
 
 ---
 
-
 >We think of color as something that hides what's underneath it, but we respond to color as something that reveals. (21)
 
 >David Hicks, "Colors do not clash. They vibrate." (28)
@@ -225,7 +224,26 @@ Rabbi Abraham Joshua Heschel, *God in Search of Man*, 1955
 
 >The kind of abundance that really matters is not material accumulation but sensorial richness. (51)
 
-
 Ingrid Fetell-Lee, *Joyful*
 
+---
+
+>Pure is the present night, in which the Pure One appeared, Who came to purify us.  
+Let our hearing be pure, and the sight of our eyes chaste, and the feeling of the heart holy, and the speech of the mouth sincere.  
+The present night is the night of reconciliation; therefore, let no one be wroth against his brother and offend him.  
+ This night gave peace to the whole world, and so, let no one threaten.  
+This is the night of the Most Meek One; let no one be cruel.  
+This is the night of the Humble One; let no one be proud.  
+Now is the day of joy; let us not take revenge for offenses.  
+Now is the day of good will; let us not be harsh.  
+On this day of tranquility, let us not become agitated by anger.  
+Today God came unto sinners; let not the righteous exalt himself over sinners.  
+Today the Most Rich One became poor for our sake; let the rich man invite the poor to his table.  
+Today we received a gift which we did not ask for; let us bestow alms to those who cry out to us and beg.  
+The present day has opened the door of heaven to our prayers; let us also open our door to those who ask of us forgiveness.  
+Today the Godhead placed upon Himself the seal of humanity, and humanity has been adorned with the seal of the Godhead.  
+
+St. Ephraim the Syrian, *On the Night of the Nativity*, CE 306-373
+
+---
 
