@@ -215,3 +215,17 @@ its message becomes meaningless.
 Rabbi Abraham Joshua Heschel, *God in Search of Man*, 1955
 
 ---
+
+
+>We think of color as something that hides what's underneath it, but we respond to color as something that reveals. (21)
+
+>David Hicks, "Colors do not clash. They vibrate." (28)
+
+>Lightbulbs: 3k Kelvin, CRI close to 100
+
+>The kind of abundance that really matters is not material accumulation but sensorial richness. (51)
+
+
+Ingrid Fetell-Lee, *Joyful*
+
+
