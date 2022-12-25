@@ -203,3 +203,15 @@ Bertrand Russell
 
 ---
 
+>It is customary to blame secular science and anti-religious philosophy for the eclipse of religion in modern society. 
+It would be more honest to blame religion for its own defeats. 
+Religion declined not because it was refuted, but because it became irrelevant, dull, oppressive, insipid. 
+When faith is completely replaced by creed, worship by discipline, love by habit; 
+when the crisis of today is ignored because of the splendor of the past; 
+when faith becomes an heirloom rather than a living foundation; 
+when religion speaks only in the name of authority rather than with the voice of compassion—
+its message becomes meaningless.
+
+Rabbi Abraham Joshua Heschel, *God in Search of Man*, 1955
+
+---
