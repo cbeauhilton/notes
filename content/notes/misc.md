@@ -247,3 +247,18 @@ St. Ephraim the Syrian, *On the Night of the Nativity*, CE 306-373
 
 ---
 
+>The only man I know who behaves sensibly is my tailor; 
+he takes my measurements anew each time he sees me. 
+The rest go on with their old measurements and expect me to fit them.
+
+George Bernard Shaw
+
+---
+
+>To learn which questions are unanswerable, 
+and not to answer them: 
+this skill is most needful in times of stress and darkness.
+
+Ursula K. Le Guin, *The Left Hand of Darkness*
+
+---

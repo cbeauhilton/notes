@@ -68,9 +68,20 @@ tags:
 
 - [[ICT LA-HNSCC indications]]
 	- larynx preservation
-			- 
+		- unknown if ICT vs CCRT for pts with LA-HNSCC  is better for larynx preservation for who were eligible for total laryngectomy
+		- SALTORL trial (GORTEX 2014-03) is comparing these head-to-head
+		- 
 	- treatment intensification (?)
+		- OS doesn't differ between ICT and CCRT, but
+			- ICT improves the rate of distant mets
+			- CCRT improves locoregional control
 	- borderline resectable or unresectable *oral cavity* cancer
+		- if resectable, ICT doesn't help
+		- if borderline resectable, ~30% of pts can convert to resectable with a few rounds of ch
 	- selection tool for RT dose de-escalation in HPV+ OPSCC
+		- the doses of RT that are used for CCRT are very high, much morbidity
 	- oligometastatic disease
+		- some hope that certain oligometastatic diseases can be cured, e.g. w ICT f/b immunotherapy
+	- pragmatic
+		- impeding airway compromise, nerve involvement
 	
