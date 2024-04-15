@@ -1,20 +1,52 @@
 ---
-title: "Where and When to Use Induction Chemotherapy in Head and Neck Squamous Cell Cancer"
-authors: Jan B. Vermorken
+cssclass: literature-note
+aliases: 
+- Where and when to Use Induction Chemotherapy in Head and Neck Squamous Cell Cancer
+- "@vermorkenWhereWhenUse2021"
 year: 2021
-tags:
-- head-and-neck
-- induction chemotherapy
+tags: ["#literature_note","#head_and_neck", "#induction", "#presentations"]
+date-created: 2023-08-09
+priority:
+- 3-medium
+status:
+- 3-in-progress
 ---
 
-- [[HPV+ OPSCC incidence over time]]
+# Where and when to Use Induction Chemotherapy in Head and Neck Squamous Cell Cancer
+
+> [!info]+ Info [Zotero](zotero://select/library/items/574XPNCY) | [PDF](zotero://open-pdf/library/items/IEH7DJZP) | [DOI:10.1007/978-3-030-63234-2_11](http://doi.org/10.1007/978-3-030-63234-2_11)
+> 
+> **Bibiography:** Vermorken, Jan B. “Where and When to Use Induction Chemotherapy in Head and Neck Squamous Cell Cancer.” In _Critical Issues in Head and Neck Oncology_, edited by Jan B. Vermorken, Volker Budach, C. René Leemans, Jean-Pascal Machiels, Piero Nicolai, and Brian O’Sullivan, 155–79. Cham: Springer International Publishing, 2021. [https://doi.org/10.1007/978-3-030-63234-2_11](https://doi.org/10.1007/978-3-030-63234-2_11).
+> 
+> **Authors::**  [[Jan B. Vermorken]],  [[Jan B. Vermorken]],  [[Volker Budach]],  [[C. René Leemans]],  [[Jean-Pascal Machiels]],  [[Piero Nicolai]],  [[Brian O’Sullivan]]
+> 
+> **Journal::** 
+> 
+> **Ztags::** [[#head_and_neck]],  [[#induction]],  [[#presentations]]
+> 
+> **First-page**: 155
+
+> [!tldr]+ Non-Zotero Links to This Note
+> ```dataview
+> TABLE tags as Tags
+> FROM [[@vermorkenWhereWhenUse2021]]
+> WHERE !contains(file.path, "reference")
+> ```
+
+> [!abstract]-
+> The treatment of locoregionally advanced squamous cell carcinoma of the head and neck (LA-HNSCC) is reviewed, highlighting the milestones in systemic therapy in that setting, with focus on the role of induction chemotherapy (ICT). The road to what is now considered the standard ICT regimen, i.e. the TPF (docetaxel/cisplatin/5-FU) regimen is described, and the differences between the European and the American TPF are discussed. The article describes the respective roles of ICT for larynx preservation, for treatment intensification, its role in patients with borderline resectable or unresectable oral cavity cancer, its role as a selection tool for radiotherapy dose de-escalation in patients with oropharyngeal squamous cell cancer (OPSCC) and its potential future role in strategies aiming at synchronous oligometastatic disease.
+
+# Persistent Notes
+%% begin notes %%
+
+## [[HPV+ OPSCC incidence over time]]
 - "...overall HPV prevalence in OPSCC is increasing significantly over time: 
 - from 40.5% before 2000, 
 	to 64.3% between 2000 and 2004, 
 	and 72.2% between 2005 and 2009"
 - "age at OPSCC diagnosis is increasing for both HPV-positive and HPV-negative patients, and a rising proportion of older patients have HPV-positive tumors"
 
-- [[OPSCC HPV+ survival ]]
+## [[OPSCC HPV+ survival ]]
 - overall, HPV+ OPSCC has better outcomes than HPV- OPSCC
 - age matters: HPV+ pts >=70yo have similar survival to HPV- pts 50-59yo
 
@@ -85,3 +117,39 @@ tags:
 	- pragmatic
 		- impeding airway compromise, nerve involvement
 	
+
+
+
+
+
+
+%% end notes %%
+# Annotations
+#### Imported on [[2023-08-09]] 10:49 am
+
+## Summary, Definitions, Concepts
+
+
+## Purpose, Hypothesis, Aim, Conclusion
+
+
+## Methodology
+
+
+## Results
+
+
+## Connections, Agree, Disagree
+
+
+## Future Implications & Research Ideas
+
+
+## Misc Thoughts & Info to Follow Up
+
+
+## References to Follow Up
+
+
+
+%% Import Date: 2023-08-09T10:50:02.504-05:00 %%

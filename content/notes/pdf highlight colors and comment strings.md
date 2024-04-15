@@ -1,0 +1,39 @@
+---
+titln ghvbm : "pdf highlight colors and comment strings"
+tags:
+- PKM
+---
+
+- 🟡️ yellow:  Summary, Definitions, Concepts
+- 🔴️ red:     Purpose, Hypothesis, Aim, Conclusion
+- 🟢️ green:   Methodology
+- 🔵️ blue:    Results
+- 🟣 purple:  Connections, Agree, Disagree
+- 🧙️ magenta: Future Implications & Research Ideas
+- 🟠️ orange:  Misc Thoughts & Info to Follow Up
+- ⚫ gray:    References to Follow Up
+- "sm": "sm" - yellow - summary
+- "df": "&df" - yellow - definition
+- "pr": "!pr" - red - purpose
+- "am": "!am" - red - aim
+- "hp": "!hp" - red - hypothesis
+- "cg": "!cg" - red - ?
+- "cb": "!cb" - red - ?
+- "sb": "$sb" - green - ?
+- "pt": "$pt" - green - ?patients
+- "in": "$in" - green - ?interventions
+- "ms": "$ms" - green - ?measurements
+- "sa": "$sa" - green
+- "ot": "$ot" - green
+- "rs": "@rs" - blue - results
+- "lc": "~lc" - purple - connection
+- "la": "~la" - purple - agree
+- "ld": "~ld" - purple - disagree
+- "pc": "~pc" - purple - connection
+- "pa": "~pa" - purple - agree
+- "pd": "~pd" - purple - disagree
+- "fi": ";fi" - magenta - future implications
+- "ri": ";ri" - magenta - research ideas
+- "mt": "?mt" - orange - miscellaneous thoughts
+- "fu": "?fu" - orange - follow up
+- "rf": "%rf" - gray - reference to follow up
